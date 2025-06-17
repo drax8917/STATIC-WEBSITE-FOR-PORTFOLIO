@@ -1,3 +1,17 @@
+# INTERACTIVE-QUIZ-APPLICATION
+
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: JITENDRA MAJHI
+
+*INTERN ID*: CT08DN1080
+
+*DOMAIN*: SOFTWARE DEVELOPMENT
+
+*DURATION: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH KUMAR
+
 # Developer Portfolio Website
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. This website showcases a developer's skills, projects, and provides a way for potential employers or clients to get in touch.
