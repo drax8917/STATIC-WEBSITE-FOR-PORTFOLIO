@@ -82,6 +82,9 @@ The website is compatible with:
 
 Feel free to submit issues and enhancement requests!
 
-## License
+** OUTPUT**
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+![Image](https://github.com/user-attachments/assets/3a0bbb43-df12-46fc-bffc-333811a7b716)
+![Image](https://github.com/user-attachments/assets/e7e48172-d518-443e-8830-b2984a050ea2)
+![Image](https://github.com/user-attachments/assets/523cb84b-ecc5-4e78-9ee7-bac97331a303)
+![Image](https://github.com/user-attachments/assets/7fd9ee50-1200-412d-a422-543b8b14d93b)
